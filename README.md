@@ -135,3 +135,5 @@ For further information on the models and libraries used, see:
 
 Feel free to reach out with questions or feedback by submitting an issue on this repository.
 ```
+ankitgeotek@gmail.com
+https://www.linkedin.com/in/kaushal-ankit/
