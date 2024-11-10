@@ -13,3 +13,5 @@ best_mode_large_e5/merges.txt filter=lfs diff=lfs merge=lfs -text
 02_TrOCR_model_training.ipynb filter=lfs diff=lfs merge=lfs -text
 03_Using_trained_model.ipynb filter=lfs diff=lfs merge=lfs -text
 04_submit_excel.ipynb filter=lfs diff=lfs merge=lfs -text
+Licplatesdetection_train.csv filter=lfs diff=lfs merge=lfs -text
+Licplatesrecognition_train.csv filter=lfs diff=lfs merge=lfs -text
