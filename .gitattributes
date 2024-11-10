@@ -1,0 +1,12 @@
+best_mode_large_e5 filter=lfs diff=lfs merge=lfs -text
+google_colab_config.yaml filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+.yaml filter=lfs diff=lfs merge=lfs -text
+'best_mode_large_e5/config.json' filter=lfs diff=lfs merge=lfs -text
+'best_mode_large_e5/generation_config.json' filter=lfs diff=lfs merge=lfs -text
+'best_mode_large_e5/merges.txt' filter=lfs diff=lfs merge=lfs -text
+best_mode_large_e5/config.json filter=lfs diff=lfs merge=lfs -text
+best_mode_large_e5/generation_config.json filter=lfs diff=lfs merge=lfs -text
+best_mode_large_e5/merges.txt filter=lfs diff=lfs merge=lfs -text
