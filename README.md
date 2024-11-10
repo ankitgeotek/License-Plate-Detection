@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` file that includes detailed setup, usage instructions, and explanations for each step to ensure users can easily replicate your setup.
 
-```markdown
 # License Plate Detection and OCR Project
 
 This project leverages YOLO (You Only Look Once) for object detection and TrOCR (Transformer-based OCR) for recognizing text on vehicle license plates. The processed results are stored in an Excel file, including the cropped license plate images and their recognized text.
